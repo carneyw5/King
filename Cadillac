@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+ <html>
+  <head>
+   <title>Cadillac</title>
+  </head>
+  <body>
+   <h1>Luxury Cars</h1>
+    <p><a href="http://www.cadillac.com/v-series/cts-v-sedan.html">2017 CTS-V SEDAN </a></p>
+    <p style="font-size: 15px">Lap the notion of what makes a high-performance sedan with the 2017 Cadillac CTS-V. The most powerful vehicle in our 114-year history, this third generation V-Series combines functional design and sophisticated technology. Built as a confident track performer and refined daily driver, this is the pinnacle of Cadillac’s performance design.</p>
+     <img src= http://www.cadillac.com/content/dam/Cadillac/Global/master/nscwebsite/en/home/Vehicles/2017_Vehicles/2017_CTS_V_Sedan/Model_Overview/01_images/2017-ctsv-sedan-carbon-black-960x320.jpg>
+    <p><a href="http://www.cadillac.com/sedans/ct6-sedan.html">2017 CT6 SEDAN</a></p>
+    <p style="font-size: 15px">With the CT6, Cadillac sets a new standard for excellence. Innovatively engineered and beautifully sculpted, the CT6 combines advanced technology with breathtaking design. The result is a daring expression of ambition.</p>
+     <img src= http://www.cadillac.com/content/dam/Cadillac/Global/master/nscwebsite/en/home/Vehicles/2017_Vehicles/2017_CT6_Sedan/Model_Overview/Colorizer/Exterior/Black_Raven_GBA/01_perspective_img_1.jpg>
+     <p><a href=  http://www.cadillac.com/v-series/ats-v-sedan.html>2017 ATS-V SEDAN</a></p>
+     <p style="font-size: 15px">We took the power and performance of racing and tailored it to the road. The result is the ATS-V Sedan. With innovative features, an attention-grabbing exterior and a powerful 3.6L Twin-Turbo engine, everyday driving just got more exhilarating.</p>
+     <img src= http://www.cadillac.com/content/dam/Cadillac/Global/master/nscwebsite/en/home/Tools/Carbon_Black_Package/2017-atsv-sedan-carbon-black-960x320.jpg>
+  </body>
+ </html>
